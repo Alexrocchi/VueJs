@@ -1,2 +1,7 @@
-# VueJs
-Real World Vue 3 (Composition API)
+# [![My Skills](https://skills.thijs.gg/icons?i=vue)](https://skills.thijs.gg) VueJs
+
+Real World Vue 3
+
+I've just started a new course to learn VueJS 3 on <a href="https://www.vuemastery.com/learning-path/beginner">Vue Mastery</a>
+
+:eyes: To see the project go to -> https://alexrocchi-vue-js.vercel.app/
