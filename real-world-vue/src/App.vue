@@ -3,11 +3,14 @@ import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <template>
+  <div class="alert alert--dark">
+    <span>&#128679; Under construction &#128679;</span>
+  </div>
   <div id="layout">
     <header>
       <div class="wrapper">
         <nav>
-          <RouterLink to="/">Home</RouterLink> |
+          <RouterLink to="/">Events</RouterLink> |
           <RouterLink to="/about">About</RouterLink>
         </nav>
       </div>
@@ -36,5 +39,19 @@ import { RouterLink, RouterView } from 'vue-router'
   }
   h2 {
     font-size: 20px;
+  }
+  body{
+    margin: 0 auto;
+  }
+  .alert{
+    text-align: center;
+    padding: 8px;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  .alert--dark{
+    background-color: #212529;
+    color: #fff;
   }
 </style>
