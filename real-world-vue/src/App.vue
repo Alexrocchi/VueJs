@@ -19,7 +19,7 @@ import { RouterLink, RouterView } from 'vue-router'
   </div>
 </template>
 
-<style>
+<style lang="scss">
   #layout {
     font-family: Avenir, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -49,9 +49,9 @@ import { RouterLink, RouterView } from 'vue-router'
     width: 100%;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-  }
-  .alert--dark{
-    background-color: #212529;
-    color: #fff;
+    &--dark{
+      background-color: #212529;
+      color: #fff;
+    }
   }
 </style>
