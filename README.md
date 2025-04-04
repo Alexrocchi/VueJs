@@ -1,4 +1,4 @@
-[![My Skills](https://skills.thijs.gg/icons?i=vue)](https://skills.thijs.gg) 
+[![My Skills](https://skillicons.dev/icons?i=vue)](https://skills.thijs.gg) 
 </br>
 # VueJs 
 <sub> 🚧 Under construction 🚧 </sub>
